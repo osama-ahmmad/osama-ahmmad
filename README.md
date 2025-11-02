@@ -43,4 +43,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/osama-ahmmad/osama-ahmmad/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/osama-ahmmad/osama-ahmmad/blob/output/github-contribution-grid-snake.svg)
