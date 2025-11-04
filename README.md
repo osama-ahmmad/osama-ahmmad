@@ -56,7 +56,7 @@
 
 <div align="center">
   
-  ![snake animation]([https://github.com/osama-ahmmad/osama-ahmmad/blob/output/dist/snake.svg](https://github.com/osama-ahmmad/osama-ahmmad/blob/output/snake.svg)
+  ![snake animation]([https://github.com/osama-ahmmad/osama-ahmmad/blob/output/dist/snake.svg](https://github.com/osama-ahmmad/osama-ahmmad/blob/output/snake.svg))
 
 
   
