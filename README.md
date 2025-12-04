@@ -14,11 +14,10 @@
 
 ```javascript
 const osama = {
-    location: "Cairo, Egypt 🇪🇬",
+    location: "Giza, Egypt 🇪🇬",
     education: "FCAI - Cairo University",
     interests: ["Software Development", "Problem Solving", "Web Technologies"],
     currentlyLearning: ["React", "Advanced Algorithms", "System Design"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄",
     askMeAbout: ["C++", "Web Dev", "Competitive Programming"]
 };
 ```
@@ -68,15 +67,6 @@ const osama = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=osama-ahmmad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osama-ahmmad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
