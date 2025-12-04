@@ -41,13 +41,13 @@ const osama = {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,python" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,jquery" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
