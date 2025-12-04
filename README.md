@@ -44,10 +44,10 @@ const osama = {
 <img src="https://skillicons.dev/icons?i=cpp,html,css,js,python" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,jquery" />
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
@@ -96,13 +96,14 @@ graph LR
 ## 💼 Featured Projects
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osama-ahmmad&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/osama-ahmmad/your-repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osama-ahmmad&repo=another-repo&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/osama-ahmmad/another-repo)
-
+  <a href="https://github.com/osama-ahmmad?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
+  </a>
 </div>
 
-> 💡 **Note:** Replace `your-repo-name` and `another-repo` with your actual repository names!
+<br/>
+
+> 🚀 Check out my repositories to see what I'm building!
 
 ---
 
@@ -138,14 +139,6 @@ graph LR
 </div>
 
 ---
-
-<div align="center">
-  
-### 🎵 Spotify Playing
-
-[![Spotify](https://novatorem-osama-ahmmad.vercel.app/api/spotify)](https://open.spotify.com/user/31k6ey3rzzpoj3aaz6sgpvjn6c3q)
-
-</div>
 
 <div align="center">
   
