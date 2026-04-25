@@ -1,134 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Osama%20Ahmed&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BADE8&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Software+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+# Osama Ahmed
 
-<br/>
+**Computer Science Student · Aspiring Full-Stack Developer**  
+📍 Giza, Egypt · 📧 oa8253707@gmail.com
 
-
-## 💫 About Me
-<img align="right" height="170"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
-
-```javascript
-const osama = {
-    location: "Giza, Egypt 🇪🇬",
-    education: "FCAI - Cairo University",
-    interests: ["Software Development", "Problem Solving", "Web Technologies"],
-    currentlyLearning: ["React", "Advanced Algorithms", "System Design"],
-    askMeAbout: ["C++", "Web Dev", "Competitive Programming"]
-};
-```
-
-<br/>
-
-- 🎓 Studying **Computer Science** at **FCAI-CU**
-- 💡 Passionate about building **elegant solutions** to complex problems
-- 🌱 Currently diving deep into **React** and **Modern Web Development**
-- 🎯 Goal: Become a **Full-Stack Developer**
-- 📫 Reach me at **oa8253707@gmail.com**
-- ⚡ Fun fact: **Coffee + Code = ❤️**
-
-<br clear="both"/>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
-
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ahmed-7502a8357)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/osama-ahmmad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/usama_ahmed02/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oa8253707@gmail.com)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## About
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osama-ahmmad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-ahmmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osama-ahmmad&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div> -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osama-ahmmad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" />
-</div>
-
-
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[Learning] --> B[React.js]
-    A --> C[Data Structures]
-    A --> D[Algorithms]
-    B --> E[Building Projects]
-    C --> E
-    D --> E
-    E --> F[Becoming Better Developer]
-```
+Computer Science student at **Faculty of Computers and Artificial Intelligence, Cairo University**. Interested in building clean, functional software — currently focused on frontend development and strengthening my foundations in data structures and algorithms.
 
 ---
 
-## 💼 Featured Projects
+## Tech Stack
+
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Currently Working On
+
+- Deepening my knowledge of **React.js** and component-based architecture
+- Practicing **Data Structures & Algorithms** for competitive programming
+- Building projects that solve real problems
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/osama-ahmmad?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
-  </a>
-</div>
-
-<br/>
-
-> 🚀 Check out my repositories to see what I'm building!
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oa8253707@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ahmed-7502a8357)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/usama_ahmed02/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osama-ahmmad)
-
-</div>
-
----
-
-
-
-
----
-
-<div align="center"> 
-  
-### 💭 Random Dev Quote
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osama-ahmmad&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
 <div align="center">
-  
-**Show some ❤️ by starring some of my repositories!** ⭐
-
+  <sub>Open to collaborating on interesting projects · Always learning</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
