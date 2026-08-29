@@ -1,8 +1,8 @@
 <div align="center">
 
 # Osama Ahmed
+**Computer Science Student · Aspiring Full-Stack Developer**
 
-**Computer Science Student · Aspiring Full-Stack Developer**  
 📍 Giza, Egypt · 📧 oa8253707@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ahmed-7502a8357)
@@ -22,17 +22,22 @@ Computer Science student at **Faculty of Computers and Artificial Intelligence, 
 
 ## Tech Stack
 
-**Languages**  
+**Languages**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**  
+**Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Tools**  
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -41,16 +46,21 @@ Computer Science student at **Faculty of Computers and Artificial Intelligence, 
 
 ## Currently Working On
 
-- Deepening my knowledge of **React.js** and component-based architecture
+- Deepening my knowledge of **React.js**, **Redux**, and component-based architecture
 - Practicing **Data Structures & Algorithms** for competitive programming
 - Building projects that solve real problems
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osama-ahmmad&theme=minimal&hide_border=true&area=true" alt="Contribution Graph" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=osama-ahmmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Osama's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-ahmmad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=osama-ahmmad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
