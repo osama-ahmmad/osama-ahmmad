@@ -52,19 +52,6 @@ Computer Science student at **Faculty of Computers and Artificial Intelligence, 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=osama-ahmmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Osama's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-ahmmad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=osama-ahmmad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
   <sub>Open to collaborating on interesting projects · Always learning</sub>
 </div>
