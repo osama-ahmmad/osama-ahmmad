@@ -6,12 +6,12 @@
 
 **Building scalable, user-focused web applications with modern JavaScript technologies.**
 
-📍 Giza, Egypt · 📧 [oa8253707@gmail.com](mailto:oa8253707@gmail.com)
+📍 Giza, Egypt · 📧 [osama.ahmed.dev1@gmail.com](mailto:osama.ahmed.dev1@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/osama-ahmed-7502a8357)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/osama-ahmmad)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/usama_ahmed02/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:oa8253707@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:osama.ahmed.dev1@gmail.com)
 
 </div>
 
