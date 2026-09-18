@@ -21,7 +21,7 @@
 
 I'm a **Computer Science student at the Faculty of Computers and Artificial Intelligence, Cairo University**, with a strong interest in **Full-Stack JavaScript development**.
 
-My current focus is building modern web applications with **React.js**, while developing a deeper understanding of state management, application architecture, and backend development.
+My current focus is building modern web applications with **React.js and Next.js**, while developing a deeper understanding of state management, application architecture, and backend development.
 
 I enjoy turning ideas into practical software, solving problems through code, and continuously improving both my technical skills and engineering practices.
 
@@ -39,15 +39,17 @@ I enjoy turning ideas into practical software, solving problems through code, an
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square\&logo=redux\&logoColor=white)
-![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-764ABC?style=flat-square\&logo=redux\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square\&logo=styled-components\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
 ### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square\&logo=jira\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 
 ---
@@ -55,11 +57,13 @@ I enjoy turning ideas into practical software, solving problems through code, an
 ## Current Focus
 
 * Deepening my expertise in **React.js** and modern frontend architecture
-* Working with **Redux, Redux Thunk, and state management patterns**
-* Exploring **Next.js** and the modern JavaScript ecosystem
+* Exploring **Next.js** and full-stack JavaScript development
+* Working with **Redux and state management patterns**
+* Learning **Styled Components** and modern approaches to component styling
 * Strengthening my **Data Structures & Algorithms** skills through competitive programming
 * Building practical projects focused on real-world use cases
 * Preparing to expand into **backend development with Node.js**
+* Improving my development workflow using **Git, GitHub, and Jira**
 
 ---
 
