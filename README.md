@@ -43,7 +43,7 @@ I'm currently strengthening my backend fundamentals, API development, authentica
 
 ## Featured Project
 
-### [Personal Portfolio](https://github.com/osama-ahmmad/my-portfolio)
+### Personal Portfolio
 
 A portfolio application built with Next.js, React, JavaScript, Tailwind CSS, and Supabase.
 
