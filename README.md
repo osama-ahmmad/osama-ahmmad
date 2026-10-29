@@ -79,7 +79,11 @@ I use Codeforces to practice algorithmic thinking, data structures, and C++ impl
 
 <div align="center">
 
-<img src="https://giffiles.alphacoders.com/216/216107.gif" width="300" alt="Kai from LEGO Ninjago" />
+<img
+  src="https://giffiles.alphacoders.com/216/216107.gif"
+  width="500"
+  alt="Kai from LEGO Ninjago"
+/>
 
 <br/>
 
