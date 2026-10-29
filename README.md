@@ -90,7 +90,9 @@ I use Codeforces to practice algorithmic thinking, data structures, and C++ impl
 ## Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/osama-ahmmad/osama-ahmmad/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-
+  <img
+    src="https://raw.githubusercontent.com/osama-ahmmad/osama-ahmmad/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </div>
